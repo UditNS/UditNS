@@ -20,10 +20,10 @@
 
 
 <h3 align="left">Github Status</h3>
-<img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/gist/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif">
+<img align="right" alt="Coding" width="400" height="400" src="https://raw.githubusercontent.com/gist/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif">
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=uditns&show_icons=true&locale=en" alt="uditns" /></p>
-
+<br>
 [![@uditns's Holopin board](https://holopin.me/uditns)](https://holopin.io/@uditns)
 
 
