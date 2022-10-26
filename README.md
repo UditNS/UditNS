@@ -20,7 +20,7 @@
 
 
 <h3 align="left">Github Status</h3>
-<img align="right" alt="Coding" width="400" height="200" src="https://raw.githubusercontent.com/gist/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif">
+<img align="right" alt="Coding" width="400" height="200" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=uditns&show_icons=true&locale=en" alt="uditns" /></p>
 
