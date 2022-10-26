@@ -20,7 +20,7 @@
 
 
 <h3 align="left">Github Status</h3>
-<img align="right" alt="Coding" width="350" src="[https://c.tenor.com/OL1Tft1hOIIAAAAd/coding-typing.gif](https://i.gifer.com/TIbw.gif)">
+<img align="right" alt="Coding" width="350" src="[[https://c.tenor.com/OL1Tft1hOIIAAAAd/coding-typing.gif](https://i.gifer.com/TIbw.gif)](https://i.gifer.com/6tXM.gif)">
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=uditns&show_icons=true&locale=en" alt="uditns" /></p>
 
