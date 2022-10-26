@@ -22,6 +22,8 @@
 <h3 align="left">Github Status</h3>
 <img align="right" alt="Coding" width="350" src="[[https://c.tenor.com/OL1Tft1hOIIAAAAd/coding-typing.gif](https://i.gifer.com/TIbw.gif)](https://i.gifer.com/6tXM.gif)">
 
+<div style="padding-top:73.333%;position:relative;"><iframe src="https://gifer.com/embed/6tXM" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">via GIFER</a></p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=uditns&show_icons=true&locale=en" alt="uditns" /></p>
 
 [![@uditns's Holopin board](https://holopin.me/uditns)](https://holopin.io/@uditns)
