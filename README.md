@@ -1,33 +1,84 @@
-<h1 align="center">Hi 👋, I'm Udit Narayan Singh</h1>
-<h3 align="center">An ambivert passionate frontend developer from India</h3>
+# Hi there! 👋 I'm Udit Narayan Singh
 
-- 🔭 I’m currently working on... **My web development skills.**
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Frontend+Developer;MERN+Stack+Enthusiast;Always+Learning+New+Things;Anime+Lover+%F0%9F%8C%9F" alt="Typing SVG" />
+</div>
 
-- 🌱 I’m currently learning… **MERN Stack**
+## 🚀 About Me
 
-- 👯 I’m looking to collaborate on… **Hackathons and projects**
+I'm an **ambivert frontend developer** from India, passionate about creating beautiful and functional web experiences. Currently diving deep into the MERN stack and always excited to collaborate on innovative projects!
 
-- 💬 Ask me about **frontend development.**
+- 🔭 **Current Focus:** Leveling up my web development skills
+- 🌱 **Learning:** MERN Stack (MongoDB, Express, React, Node.js)
+- 👯 **Open to:** Hackathons and collaborative projects
+- 💬 **Ask me about:** Frontend development, React, or my favorite anime!
+- ⚡ **Fun Fact:** Anime lover 🤩 (always up for recommendations!)
 
-- 📫 How to reach me **uditn007@gmail.com**
+## 📫 Let's Connect!
 
-- ⚡ Interesting fact: **Anime lover 🤩**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/udit-narayan-singh-aab63a1b1/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="udit narayan singh" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/udit-narayan-singh-aab63a1b1/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:uditn007@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
+## 💻 Tech Stack
 
-<h3 align="left">Github Status</h3>
-<img align="right" alt="Coding" width="400" height="200" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
+### Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=uditns&show_icons=true&locale=en" alt="uditns" /></p>
+### Frontend
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+</p>
 
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=uditns&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uditns&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uditns&theme=radical&hide_border=true&layout=compact" alt="Top Languages" />
+</div>
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+  
 [![@uditns's Holopin board](https://holopin.me/uditns)](https://holopin.io/@uditns)
 
+</div>
 
+## 📈 Contribution Graph
 
-<h3 align="left">Tech stacks I am familiar with:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=uditns&theme=react-dark&hide_border=true" alt="Contribution Graph" />
+</div>
 
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=uditns&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  
+  ### 💭 Random Dev Quote
+  
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+  
+  **Thanks for visiting! Feel free to reach out for collaborations or just a chat about tech and anime! 🚀**
+</div>
