@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Udit Narayan Singh
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Frontend+Developer;MERN+Stack+Enthusiast;Always+Learning+New+Things;Anime+Lover+%F0%9F%8C%9F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Aspiring+Software+Engineer;MERN+Stack+Developer;Always+Learning+New+Things;Anime+Lover+%F0%9F%8C%9F" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
